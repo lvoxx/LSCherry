@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width="100%" src="https://i.imgur.com/6wj0hh6.jpg" alt="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png"></a>
+ <img width="100%" src="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png" alt="Project Banner"></a>
 </p>
 
 <h3 align="center">LSCherry</h3>
