@@ -3,20 +3,21 @@
  <img width="100%" src="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png" alt="Project Banner"></a>
 </p>
 
-<h3 align="center">LSCherry</h3>
+<h3 align="center">"Toon Shader for Blender is inspired by aVersionOfReality and is designed to be compatible with many contemporary anime-style games and pure toon aesthetics"</h3>
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
+[![BUILD WITH](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
+[![Star](https://img.shields.io/github/stars/{username}/{repo-name}.svg)]()
+[![Downloads](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)]()
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Toon Shader for Blender.
     <br> 
 </p>
 
@@ -96,19 +97,16 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Blender](https://www.blender.org/) - 3D Engine
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@lvoxx](https://github.com/lvoxx) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to anyone whose code was used
-- Inspiration
+- [Inspiration by aVersionOfReality](https://www.youtube.com/@aVersionOfReality) Sincerely appreciate the inspiration from aVersionOfReality
 - References
