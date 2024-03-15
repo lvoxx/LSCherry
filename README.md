@@ -7,19 +7,29 @@
 
 <div align="center">
 
-[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
-[![BUILD WITH](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
-[![Star](https://img.shields.io/github/stars/{username}/{repo-name}.svg)]()
-[![Downloads](https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg)]()
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-</div>
+<p align='center'>
+  <div>
+    <a href="#">
+      <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/lvoxx/LSCherry?style=for-the-badge"/>
+    </a>&nbsp;&nbsp;
+    <a href="#">
+      <img alt="Total Downloads" src="https://img.shields.io/github/downloads/lvoxx/LSCherry/total?style=for-the-badge"/>
+    </a>&nbsp;&nbsp;
+  </div>
+  <div>
+    <a href="#">
+      <img alt="Build for Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+    </a>&nbsp;&nbsp;
+    <a href="#">
+      <img alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg?style=for-the-badge"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.gnu.org/licenses/gpl-3.0">
+      <img alt="License: GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge"/>
+    </a>&nbsp;&nbsp;
+  </div>
+</p>
 
 ---
-
-<p align="center"> Toon Shader for Blender.
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 
@@ -29,9 +39,8 @@
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Contributor](#contributor)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -103,7 +112,13 @@ Add additional notes about how to deploy this on a live system.
 
 - [@lvoxx](https://github.com/lvoxx) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+
+## Thanks to all contributors ❤ <a name = "contributor"></a>
+
+ <a href = "https://github.com/lvoxx/LSCherry/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=lvoxx/LSCherry"/>
+ </a>
+
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
