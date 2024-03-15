@@ -5,7 +5,7 @@
 
 <h3 align="center">Toon Shader for Blender is inspired by aVersionOfReality and is designed to be compatible with many contemporary anime-style games and pure toon aesthetics</h3>
 
-<p align='center'>
+<p align="center">
   <div>
     <a href="#">
       <img alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg?style=for-the-badge"/>
