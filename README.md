@@ -3,11 +3,14 @@
  <img width="100%" src="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png" alt="Project Banner"></a>
 </p>
 
-<h3 align="center">"Toon Shader for Blender is inspired by aVersionOfReality and is designed to be compatible with many contemporary anime-style games and pure toon aesthetics"</h3>
-
-<div align="center">
+<h3 align="center">Toon Shader for Blender is inspired by aVersionOfReality and is designed to be compatible with many contemporary anime-style games and pure toon aesthetics</h3>
 
 <p align='center'>
+  <div>
+    <a href="#">
+      <img alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg?style=for-the-badge"/>
+    </a>&nbsp;&nbsp;
+  </div>
   <div>
     <a href="#">
       <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/lvoxx/LSCherry?style=for-the-badge"/>
@@ -19,9 +22,6 @@
   <div>
     <a href="#">
       <img alt="Build for Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-    </a>&nbsp;&nbsp;
-    <a href="#">
-      <img alt="Build with love" src="http://ForTheBadge.com/images/badges/built-with-love.svg?style=for-the-badge"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.gnu.org/licenses/gpl-3.0">
       <img alt="License: GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge"/>
@@ -112,13 +112,11 @@ Add additional notes about how to deploy this on a live system.
 
 - [@lvoxx](https://github.com/lvoxx) - Idea & Initial work
 
-
 ## Thanks to all contributors ❤ <a name = "contributor"></a>
 
  <a href = "https://github.com/lvoxx/LSCherry/graphs/contributors">
    <img src = "https://contrib.rocks/image?repo=lvoxx/LSCherry"/>
  </a>
-
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
