@@ -3,7 +3,7 @@
  <img width="100%" src="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png" alt="Project Banner"></a>
 </p>
 
-<h3 align="center">Toon Shader for Blender is inspired by aVersionOfReality and is designed to be compatible with many contemporary anime-style games and pure toon aesthetics</h3>
+<h3 align="center">Toon Shader Library for Blender. Supporting various material processing types for toon rendering.</h3>
 
 <p align="center">
   <a href="#">
@@ -24,78 +24,56 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
+- [Prerequisites](#prerequisites)
+- [Build-in Toon Support For Games](#build-in)
+- [Test File](#tests)
 - [TODO](../TODO.md)
 - [Authors](#authors)
 - [Contributor](#contributor)
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://www.youtube.com/@aVersionOfReality)">aVersionOfReality</a> and is a library designed to be compatible with many contemporary anime-style games and pure toon aesthetics. The basic configurations have been pre-set up and integrated with toolsets to facilitate connections with other similar or compatible toon libraries.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+1. Download and extract the release.
+2. Add Asset Library In File Path
 
-### Prerequisites
+3. Open Asset Browser and drag object LSCherry as a linked asset.
 
-What things you need to install the software and how to install them.
+4. Find "makeToon" node inn shader editor
 
-```
-Give examples
-```
+5. Yes, its done. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name": "Feature Name".
 
-### Installing
+### ❗ Prerequisites <a name = "prerequisites"></a>
 
-A step by step series of examples that tell you how to get a development env running.
+:warning: Blender version 3.x.x or 4.x.x
+| Require name | Description | Where To Download | Require | Option |
+|---------------------|-----------------------------|---------------|----------------|-----------|
+| Blender | For LSCherry | <a href="https://www.blender.org/download/">Download Blender</a> | ✔️ | |
+| Auto Reload | Auto Reload linked assets | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> | | ✔️ |
+| VF PlanarUV | For Frequent Hair Highlight | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a> | | ✔️ |
+| Mesh Fairing Master | Quick Clean Shading Face | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a> | | ✔️ |
 
-Say what the step will be
+### 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
+| Package | Build-in Support |
+| Honkai Impact 3 | ✔️ |
+| Genshin Impact | ❌ |
+| Zenless Zone Zero | ❌ |
+| Honkai Starrail | ❌ |
+| Punishing: Gray Raven | ❌ |
+| Wuthering Waves | ❌ |
+| Persona Series | ❌ |
+| Wuthering Waves | ❌ |
+| Aether Gazer | ❌ |
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## 🔧 Running the tests <a name = "tests"></a>
+## 🔧 Tests File <a name = "tests"></a>
 
 Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [Blender](https://www.blender.org/) - 3D Engine
 
 ## ✍️ Authors <a name = "authors"></a>
 
