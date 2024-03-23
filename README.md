@@ -51,23 +51,24 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 :warning: Blender version 3.x.x or 4.x.x
 | Require name | Description | Where To Download | Require | Option |
 |---------------------|-----------------------------|---------------|:----------------:|:-----------:|
-| Blender | For LSCherry | <a href="https://www.blender.org/download/">Download Blender</a> | ✔️ | ➖ |
-| Auto Reload | Auto Reload linked assets | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> | | ✔️ |
+| Blender | For LSCherry | <a href="https://www.blender.org/download/">Download</a> | ✔️ | ➖ |
+| Auto Reload | Auto Reload linked assets | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> | ➖ | ✔️ |
 | VF PlanarUV | For Frequent Hair Highlight | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a> | ➖ | ✔️ |
 | Mesh Fairing Master | Quick Clean Shading Face | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a> | ➖ | ✔️ |
 
 ### 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
-| Package | Build-in Support |
-| Honkai Impact 3 | ✔️ |
-| Genshin Impact | ❌ |
-| Zenless Zone Zero | ❌ |
-| Honkai Starrail | ❌ |
-| Punishing: Gray Raven | ❌ |
-| Wuthering Waves | ❌ |
-| Persona Series | ❌ |
-| Wuthering Waves | ❌ |
-| Aether Gazer | ❌ |
+| Package               | Build-in Support |
+| --------------------- | :--------------: |
+| Honkai Impact 3       |        ✔️        |
+| Genshin Impact        |        ❌        |
+| Zenless Zone Zero     |        ❌        |
+| Honkai Starrail       |        ❌        |
+| Punishing: Gray Raven |        ❌        |
+| Wuthering Waves       |        ❌        |
+| Persona Series        |        ❌        |
+| Wuthering Waves       |        ❌        |
+| Aether Gazer          |        ❌        |
 
 End with an example of getting some data out of the system or using it for a little demo.
 
