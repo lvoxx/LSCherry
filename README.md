@@ -49,7 +49,9 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
-:warning: Blender version 3.x.x or 4.x.x
+### 🛠️ Blender version should be __3.x.x__ or __4.x.x__
+⚠️ Blender version __2.x.x__ or __older__ will cause unexpected issues ⚠️
+
 | Require name | Description | Where To Download | Require | Option |
 |---------------------|-----------------------------|---------------|:----------------:|:-----------:|
 | Blender | For LSCherry | <a href="https://www.blender.org/download/">Download</a> | ✔️ | ➖ |
@@ -59,19 +61,18 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ## 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
-| Package               | Build-in Support |
-| --------------------- | :--------------: |
-| Honkai Impact 3       |        ✔️        |
-| Genshin Impact        |        ❌        |
-| Zenless Zone Zero     |        ❌        |
-| Honkai Starrail       |        ❌        |
-| Punishing: Gray Raven |        ❌        |
-| Wuthering Waves       |        ❌        |
-| Persona Series        |        ❌        |
-| Wuthering Waves       |        ❌        |
-| Aether Gazer          |        ❌        |
-
-End with an example of getting some data out of the system or using it for a little demo.
+| Package               | Build-in Support | Prefix |
+| --------------------- | :--------------: | :----: |
+| Honkai Impact 3       |        ✔️        |  HI3   |
+| Genshin Impact        |        ❌        |   GI   |
+| Zenless Zone Zero     |        ❌        |  ZZZ   |
+| Honkai Starrail       |        ❌        |  HSR   |
+| Punishing: Gray Raven |        ❌        |  PGR   |
+| Girls Frontline 2     |        ❌        |  GF2   |
+| Persona Series        |        ❌        |  PSN   |
+| Wuthering Waves       |        ❌        |   WW   |
+| Aether Gazer          |        ❌        |   AG   |
+| Project Snow          |        ❌        |  PJS   |
 
 ## 🔧 Tests File <a name = "tests"></a>
 
