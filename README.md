@@ -95,9 +95,10 @@ Respect for those who have created wonderful addons and library.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-|                                                                                                                       Inspiration by aVersionOfReality                                                                                                                       |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/lvoxx.png?size=250" width=115><br>](https://www.youtube.com/@aVersionOfReality)<br><br> [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aVersionOfReality) |
+|                                                                                                                                                                     Inspiration by<br>aVersionOfReality                                                                                                                                                                     |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://yt3.googleusercontent.com/rF0s7_on04Mf3SXpK_bTd0rODuqNv4HGoPTJLGIF1GbmzV9XpIzDI8bFN4GFfXZsQgJR7REE8Bg=s176-c-k-c0x00ffffff-no-rj" width=115><br>](https://www.youtube.com/@aVersionOfReality)<br> [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aVersionOfReality) |
 
 ### References
+
 Not update yet.
