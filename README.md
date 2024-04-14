@@ -84,7 +84,7 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 ## 🔧 Tests File <a name = "tests"></a>
 
 Check out test file using build-in packages.
-<a src="https://github.com/lvoxx/LSCherry/tree/main/test"> Go to tests</a>
+[Go To Tests](https://github.com/lvoxx/LSCherry/tree/main/test)
 
 ### Honkai Impact 3
 <strong>Elysia</strong></br>
@@ -97,7 +97,7 @@ Check out test file using build-in packages.
 ## 📖 User Manual <a name = "user-manual"></a>
 
 Check for guild lines in my repos wiki</br>
-<a src="https://github.com/lvoxx/LSCherry/tree/main/test">Go to Wiki</a>
+[Go To Wiki](https://github.com/lvoxx/LSCherry/wiki)
 
 ## ✍️ Creators <a name = "creators"></a>
 
