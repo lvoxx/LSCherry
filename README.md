@@ -45,10 +45,10 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 ![Screenshot 2024-04-14 110334](https://github.com/lvoxx/LSCherry/assets/95278222/d4f1b22d-8d16-4bb8-aa53-a80401b54be5)
 
 3. Open Asset Browser and drag object "Cherry".</br>
-<img src="https://github.com/lvoxx/LSCherry/assets/95278222/faf729cc-0408-4f43-883f-c76cceaea012" width = "600"/>
+<img src="https://github.com/lvoxx/LSCherry/assets/95278222/faf729cc-0408-4f43-883f-c76cceaea012" width = "700"/>
 
 4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
-<img src="https://github.com/lvoxx/LSCherry/assets/95278222/63153287-1603-483c-ab79-98228fdb34b6" width = "450"/>
+<img src="https://github.com/lvoxx/LSCherry/assets/95278222/63153287-1603-483c-ab79-98228fdb34b6" width = "550"/>
 
 
 5. Yes, its done ✨🎉🎉. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name". Example: HI3, GI, HSR,... find more prefix at [Build-in Toon Support For Games](#build-in)
@@ -88,7 +88,11 @@ Check out test file using build-in packages.
 
 ### Honkai Impact 3
 <strong>Elysia</strong></br>
-<img src="https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15" width = "300"/>
+<img src="https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15" width = "350"/>
+
+<strong>Vill-V</strong></br>
+<img src="https://github.com/lvoxx/LSCherry/assets/95278222/90f2ef91-2cc2-48c9-a346-5418d9ec9585" width = "350"/>
+
 
 ## 📖 User Manual <a name = "user-manual"></a>
 
