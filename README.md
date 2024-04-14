@@ -36,15 +36,22 @@
 Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://www.youtube.com/@aVersionOfReality)">aVersionOfReality</a> and is a library designed to be compatible with many contemporary anime-style games and pure toon aesthetics. The basic configurations have been pre-set up and integrated with toolsets to facilitate connections with other similar or compatible toon libraries.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-<iframe src="https://scribehow.com/page-embed/Untitled__JY10oQOoQPmUVxSdPufsyA" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+
 1. Download and extract the release.
+![Screenshot (1928)](https://github.com/lvoxx/LSCherry/assets/95278222/70f1f18d-e45b-4170-bb76-4a3624c13d27)
+
 2. Add Asset Library In File Path
+* Note: You can use LSCherry as a local asset (Append) to share your work with others or lock down the LSCherry version you prefer.
+![Screenshot 2024-04-14 110334](https://github.com/lvoxx/LSCherry/assets/95278222/d4f1b22d-8d16-4bb8-aa53-a80401b54be5)
 
-3. Open Asset Browser and drag object LSCherry as a linked asset.
+3. Open Asset Browser and drag object "Cherry".
+![Screenshot 2024-04-14 112014](https://github.com/lvoxx/LSCherry/assets/95278222/faf729cc-0408-4f43-883f-c76cceaea012)
 
-4. Find "makeToon" node inn shader editor
+4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.
+![Screenshot 2024-04-14 112844](https://github.com/lvoxx/LSCherry/assets/95278222/63153287-1603-483c-ab79-98228fdb34b6)
 
-5. Yes, its done. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name": "Feature Name".
+
+5. Yes, its done ✨🎉🎉. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name". Example: HI3, GI, HSR,... find more prefix at [Build-in Toon Support For Games](#build-in)
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
