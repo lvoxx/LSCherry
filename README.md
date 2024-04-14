@@ -27,9 +27,8 @@
 - [Prerequisites](#prerequisites)
 - [Build-in Toon Support For Games](#build-in)
 - [Test File](#tests)
-- [TODO](../TODO.md)
+- [User Manual](#user-manual)
 - [Creators](#creators)
-- [Contributor](#contributor)
 - [Acknowledgements](#acknowledgements)
 
 ## 🧐 About <a name = "about"></a>
@@ -38,14 +37,21 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-1. Download and extract the release.
+1. Download and extract the release.</br>
+![Screenshot (1928)](https://github.com/lvoxx/LSCherry/assets/95278222/70f1f18d-e45b-4170-bb76-4a3624c13d27)
+
 2. Add Asset Library In File Path
+* Note: You can use LSCherry as a local asset (Append) to share your work with others or lock down the LSCherry version you prefer.</br>
+![Screenshot 2024-04-14 110334](https://github.com/lvoxx/LSCherry/assets/95278222/d4f1b22d-8d16-4bb8-aa53-a80401b54be5)
 
-3. Open Asset Browser and drag object LSCherry as a linked asset.
+3. Open Asset Browser and drag object "Cherry".</br>
+<img src="https://github.com/lvoxx/LSCherry/assets/95278222/faf729cc-0408-4f43-883f-c76cceaea012" width = "600"/>
 
-4. Find "makeToon" node inn shader editor
+4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
+<img src="https://github.com/lvoxx/LSCherry/assets/95278222/63153287-1603-483c-ab79-98228fdb34b6" width = "450"/>
 
-5. Yes, its done. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name": "Feature Name".
+
+5. Yes, its done ✨🎉🎉. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name". Example: HI3, GI, HSR,... find more prefix at [Build-in Toon Support For Games](#build-in)
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
@@ -53,12 +59,12 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ⚠️ Blender version **2.x.x** or **older** will cause unexpected issues ⚠️
 
-| Require name          | Description                  | Where To Download                                                                                  | Require | Option |
-| --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :-----: | :----: |
-| Blender               | For LSCherry                 | <a href="https://www.blender.org/download/">Download</a>                                           |   ✔️    |   ➖   |
-| Auto Reload Libraries | Auto reload linked libraries | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> |   ➖    |   ✔️   |
-| VF PlanarUV           | For Frequent Hair Highlight  | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a>            |   ➖    |   ✔️   |
-| Mesh Fairing Master   | Quick Clean Shading Face     | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a>   |   ➖    |   ✔️   |
+| Require name          | Description                  | Where To Download                                                                                  | Is |
+| --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :-----: |
+| Blender               | For LSCherry                 | <a href="https://www.blender.org/download/">Download</a>                                           |   Required    |
+| Auto Reload Libraries | Auto reload linked libraries | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> |   Required    |
+| VF PlanarUV           | For Frequent Hair Highlight  | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a>            |   Optional    |
+| Mesh Fairing Master   | Quick Clean Shading Face     | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a>   |   Optional    |
 
 ## 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
@@ -77,7 +83,17 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ## 🔧 Tests File <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
+Check out test file using build-in packages.
+<a src="https://github.com/lvoxx/LSCherry/tree/main/test"> Go to tests</a>
+
+### Honkai Impact 3
+<strong>Elysia</strong></br>
+<img src="https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15" width = "300"/>
+
+## 📖 User Manual <a name = "user-manual"></a>
+
+Check for guild lines in my repos wiki
+[<a src="https://github.com/lvoxx/LSCherry/tree/main/test">Go to Wiki</a>](https://github.com/lvoxx/LSCherry/wiki)
 
 ## ✍️ Creators <a name = "creators"></a>
 
@@ -86,12 +102,6 @@ Respect for those who have created wonderful addons and library.
 |                                                                                                                                         Author                                                                                                                                          |                                                                                                                                          Auto Reload Libraries                                                                                                                                          |                                                                                                                                            VF PlanarUV                                                                                                                                            |                                                                                                                                 Mesh Fairing Master                                                                                                                                 |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://github.com/lvoxx.png?size=250" width=115><br><sub>@lvoxx</sub>](https://github.com/lvoxx) <br><br> [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.patreon.com/lvoxxArtist) | [<img src="https://github.com/gandalf3.png?size=250" width=115><br><sub>@gandalf3</sub>](https://github.com/gandalf3) <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gandalf3/auto-reload-linked-libraries) | [<img src="https://github.com/jeinselen.png?size=250" width=115><br><sub>@jeinselen</sub>](https://github.com/jeinselen) <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeinselen/VF-BlenderPlanarUV) | [<img src="https://github.com/fedackb.png?size=250" width=115><br><sub>@fedackb</sub>](https://github.com/fedackb) <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fedackb/mesh-fairing) |
-
-## Thanks to all contributors ❤ <a name = "contributor"></a>
-
- <a href = "https://github.com/lvoxx/LSCherry/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=lvoxx/LSCherry"/>
- </a>
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
