@@ -29,7 +29,6 @@
 - [Test File](#tests)
 - [TODO](../TODO.md)
 - [Creators](#creators)
-- [Contributor](#contributor)
 - [Acknowledgements](#acknowledgements)
 
 ## 🧐 About <a name = "about"></a>
@@ -53,12 +52,12 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ⚠️ Blender version **2.x.x** or **older** will cause unexpected issues ⚠️
 
-| Require name          | Description                  | Where To Download                                                                                  | Require | Option |
-| --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :-----: | :----: |
-| Blender               | For LSCherry                 | <a href="https://www.blender.org/download/">Download</a>                                           |   ✔️    |   ➖   |
-| Auto Reload Libraries | Auto reload linked libraries | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> |   ➖    |   ✔️   |
-| VF PlanarUV           | For Frequent Hair Highlight  | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a>            |   ➖    |   ✔️   |
-| Mesh Fairing Master   | Quick Clean Shading Face     | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a>   |   ➖    |   ✔️   |
+| Require name          | Description                  | Where To Download                                                                                  | Is |
+| --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :-----: |
+| Blender               | For LSCherry                 | <a href="https://www.blender.org/download/">Download</a>                                           |   Required    |
+| Auto Reload Libraries | Auto reload linked libraries | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> |   Required    |
+| VF PlanarUV           | For Frequent Hair Highlight  | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a>            |   Optional    |
+| Mesh Fairing Master   | Quick Clean Shading Face     | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a>   |   Optional    |
 
 ## 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
@@ -86,12 +85,6 @@ Respect for those who have created wonderful addons and library.
 |                                                                                                                                         Author                                                                                                                                          |                                                                                                                                          Auto Reload Libraries                                                                                                                                          |                                                                                                                                            VF PlanarUV                                                                                                                                            |                                                                                                                                 Mesh Fairing Master                                                                                                                                 |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://github.com/lvoxx.png?size=250" width=115><br><sub>@lvoxx</sub>](https://github.com/lvoxx) <br><br> [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://www.patreon.com/lvoxxArtist) | [<img src="https://github.com/gandalf3.png?size=250" width=115><br><sub>@gandalf3</sub>](https://github.com/gandalf3) <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gandalf3/auto-reload-linked-libraries) | [<img src="https://github.com/jeinselen.png?size=250" width=115><br><sub>@jeinselen</sub>](https://github.com/jeinselen) <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeinselen/VF-BlenderPlanarUV) | [<img src="https://github.com/fedackb.png?size=250" width=115><br><sub>@fedackb</sub>](https://github.com/fedackb) <br><br> [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fedackb/mesh-fairing) |
-
-## Thanks to all contributors ❤ <a name = "contributor"></a>
-
- <a href = "https://github.com/lvoxx/LSCherry/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=lvoxx/LSCherry"/>
- </a>
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
