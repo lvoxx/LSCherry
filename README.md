@@ -10,7 +10,7 @@
     <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/lvoxx/LSCherry?style=for-the-badge"/>
   </a>&nbsp;&nbsp;
   <a href="#">
-    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/lvoxx/LSCherry/total?style=for-the-badge"/>
+    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/lvoxx/LSCherry/total.svg?style=for-the-badge"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.blender.org/">
     <img alt="Build for Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
