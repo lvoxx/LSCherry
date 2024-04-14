@@ -49,15 +49,16 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
-### 🛠️ Blender version should be __3.x.x__ or __4.x.x__
-⚠️ Blender version __2.x.x__ or __older__ will cause unexpected issues ⚠️
+### 🛠️ Blender version should be **3.x.x** or **4.x.x**
 
-| Require name | Description | Where To Download | Require | Option |
-|---------------------|-----------------------------|---------------|:----------------:|:-----------:|
-| Blender | For LSCherry | <a href="https://www.blender.org/download/">Download</a> | ✔️ | ➖ |
-| Auto Reload Libraries | Auto reload linked libraries | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> | ➖ | ✔️ |
-| VF PlanarUV | For Frequent Hair Highlight | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a> | ➖ | ✔️ |
-| Mesh Fairing Master | Quick Clean Shading Face | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a> | ➖ | ✔️ |
+⚠️ Blender version **2.x.x** or **older** will cause unexpected issues ⚠️
+
+| Require name          | Description                  | Where To Download                                                                                  | Require | Option |
+| --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :-----: | :----: |
+| Blender               | For LSCherry                 | <a href="https://www.blender.org/download/">Download</a>                                           |   ✔️    |   ➖   |
+| Auto Reload Libraries | Auto reload linked libraries | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> |   ➖    |   ✔️   |
+| VF PlanarUV           | For Frequent Hair Highlight  | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a>            |   ➖    |   ✔️   |
+| Mesh Fairing Master   | Quick Clean Shading Face     | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a>   |   ➖    |   ✔️   |
 
 ## 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
@@ -94,5 +95,9 @@ Respect for those who have created wonderful addons and library.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- [Inspiration by aVersionOfReality](https://www.youtube.com/@aVersionOfReality) Sincerely appreciate the inspiration from aVersionOfReality
-- References
+|                                                                                                                       Inspiration by aVersionOfReality                                                                                                                       |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/lvoxx.png?size=250" width=115><br>](https://www.youtube.com/@aVersionOfReality)<br><br> [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aVersionOfReality) |
+
+### References
+Not update yet.
