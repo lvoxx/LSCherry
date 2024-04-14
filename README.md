@@ -1,4 +1,4 @@
-<p align="center">
+![2](https://github.com/lvoxx/LSCherry/assets/95278222/af8d7216-2832-478d-a81d-ab2fca865012)<p align="center">
   <a href="" rel="noopener">
  <img width="100%" src="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png" alt="Project Banner"></a>
 </p>
@@ -27,7 +27,7 @@
 - [Prerequisites](#prerequisites)
 - [Build-in Toon Support For Games](#build-in)
 - [Test File](#tests)
-- [TODO](../TODO.md)
+- [User Manual](#user-manual)
 - [Creators](#creators)
 - [Acknowledgements](#acknowledgements)
 
@@ -83,7 +83,17 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ## 🔧 Tests File <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
+Check out test file using build-in packages.
+<a src="https://github.com/lvoxx/LSCherry/tree/main/test"> Go to tests</a>
+
+### Honkai Impact 3
+<strong>Elysia</strong>
+![2](https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15)
+
+## 📖 User Manual <a name = "user-manual"></a>
+
+Check for guild lines in my repos wiki
+[<a src="https://github.com/lvoxx/LSCherry/tree/main/test">Go to Wiki</a>](https://github.com/lvoxx/LSCherry/wiki)
 
 ## ✍️ Creators <a name = "creators"></a>
 
