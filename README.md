@@ -1,4 +1,4 @@
-![2](https://github.com/lvoxx/LSCherry/assets/95278222/af8d7216-2832-478d-a81d-ab2fca865012)<p align="center">
+<p align="center">
   <a href="" rel="noopener">
  <img width="100%" src="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png" alt="Project Banner"></a>
 </p>
@@ -88,7 +88,7 @@ Check out test file using build-in packages.
 
 ### Honkai Impact 3
 <strong>Elysia</strong>
-![2](https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15)
+![2](https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15 | width = 300)
 
 ## 📖 User Manual <a name = "user-manual"></a>
 
