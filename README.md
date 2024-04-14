@@ -37,7 +37,7 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-1. Download and extract the release.
+1. Download and extract the release.</br>
 ![Screenshot (1928)](https://github.com/lvoxx/LSCherry/assets/95278222/70f1f18d-e45b-4170-bb76-4a3624c13d27)
 
 2. Add Asset Library In File Path
