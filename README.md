@@ -87,8 +87,8 @@ Check out test file using build-in packages.
 <a src="https://github.com/lvoxx/LSCherry/tree/main/test"> Go to tests</a>
 
 ### Honkai Impact 3
-<strong>Elysia</strong>
-![2](https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15 | width = 300)
+<strong>Elysia</strong></br>
+<img src="https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15" width = "300"/>
 
 ## 📖 User Manual <a name = "user-manual"></a>
 
