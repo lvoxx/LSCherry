@@ -41,13 +41,13 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 ![Screenshot (1928)](https://github.com/lvoxx/LSCherry/assets/95278222/70f1f18d-e45b-4170-bb76-4a3624c13d27)
 
 2. Add Asset Library In File Path
-* Note: You can use LSCherry as a local asset (Append) to share your work with others or lock down the LSCherry version you prefer.
+* Note: You can use LSCherry as a local asset (Append) to share your work with others or lock down the LSCherry version you prefer.</br>
 ![Screenshot 2024-04-14 110334](https://github.com/lvoxx/LSCherry/assets/95278222/d4f1b22d-8d16-4bb8-aa53-a80401b54be5)
 
-3. Open Asset Browser and drag object "Cherry".
+3. Open Asset Browser and drag object "Cherry".</br>
 ![Screenshot 2024-04-14 112014](https://github.com/lvoxx/LSCherry/assets/95278222/faf729cc-0408-4f43-883f-c76cceaea012)
 
-4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.
+4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
 ![Screenshot 2024-04-14 112844](https://github.com/lvoxx/LSCherry/assets/95278222/63153287-1603-483c-ab79-98228fdb34b6)
 
 
