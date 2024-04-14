@@ -96,8 +96,8 @@ Check out test file using build-in packages.
 
 ## 📖 User Manual <a name = "user-manual"></a>
 
-Check for guild lines in my repos wiki
-[<a src="https://github.com/lvoxx/LSCherry/tree/main/test">Go to Wiki</a>](https://github.com/lvoxx/LSCherry/wiki)
+Check for guild lines in my repos wiki</br>
+<a src="https://github.com/lvoxx/LSCherry/tree/main/test">Go to Wiki</a>
 
 ## ✍️ Creators <a name = "creators"></a>
 
