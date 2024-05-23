@@ -56,7 +56,7 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
 ### 🛠️ Blender version should be **3.x.x** or **4.x.x**
-
+### 🛠️ The LSCherry nodes link to the scr, make sure to relink the source or local it all
 ⚠️ Blender version **2.x.x** or **older** will cause unexpected issues ⚠️
 
 | Require name          | Description                  | Where To Download                                                                                  | Is |
