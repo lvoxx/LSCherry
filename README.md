@@ -71,9 +71,9 @@ Toon Shader for Blender is inspired by <a href="[doc:intro-to-readme](https://ww
 | Package               | Build-in Support | Prefix |
 | --------------------- | :--------------: | :----: |
 | Honkai Impact 3       |        ✔️        |  HI3   |
-| Genshin Impact        |        ❌        |   GI   |
+| Genshin Impact        |        ✔️        |   GI   |
 | Zenless Zone Zero     |        ❌        |  ZZZ   |
-| Honkai Starrail       |        ❌        |  HSR   |
+| Honkai Starrail       |        ✔️        |  HSR   |
 | Punishing: Gray Raven |        ❌        |  PGR   |
 | Girls Frontline 2     |        ❌        |  GF2   |
 | Persona Series        |        ❌        |  PSN   |
