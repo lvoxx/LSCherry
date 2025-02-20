@@ -71,18 +71,18 @@ Follow project tags on <a href="https://trello.com/invite/b/67b5c93f75f86096406f
 
 ## 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
-| Package               | Build-in Support | Prefix | Starter Pack |
-| --------------------- | :--------------: | :----: | :----------: |
-| Honkai Impact 3       |        ✔️        |  HI3   |      ✔️      |
-| Genshin Impact        |        ✔️        |   GI   |      ✔️      |
-| Zenless Zone Zero     |        ❌        |  ZZZ   |      ❌      |
-| Honkai Starrail       |        ✔️        |  HSR   |      ✔️      |
-| Punishing: Gray Raven |        ❌        |  PGR   |      ❌      |
-| Girls Frontline 2     |        ❌        |  GF2   |      ❌      |
-| Persona Series        |        ❌        |  PSN   |      ❌      |
-| Wuthering Waves       |        ❌        |   WW   |      ❌      |
-| Aether Gazer          |        ❌        |   AG   |      ❌      |
-| Project Snow          |        ❌        |  PJS   |      ❌      |
+| Package               | Prefix | Build-in Support | Starter Pack |
+| --------------------- | :----: | :--------------: | :----------: |
+| Honkai Impact 3       |  HI3   |        ✔️        |      ✔️      |
+| Genshin Impact        |   GI   |        ✔️        |      ✔️      |
+| Zenless Zone Zero     |  ZZZ   |        ❌        |      ❌      |
+| Honkai Starrail       |  HSR   |        ✔️        |      ✔️      |
+| Punishing: Gray Raven |  PGR   |        ❌        |      ❌      |
+| Girls Frontline 2     |  GF2   |        ❌        |      ❌      |
+| Persona Series        |  PSN   |        ❌        |      ❌      |
+| Wuthering Waves       |   WW   |        ❌        |      ❌      |
+| Aether Gazer          |   AG   |        ❌        |      ❌      |
+| Project Snow          |  PJS   |        ❌        |      ❌      |
 
 ## 🔧 Tests File <a name = "tests"></a>
 
