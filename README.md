@@ -38,21 +38,23 @@ Follow project tags on <a href="https://trello.com/invite/b/67b5c93f75f86096406f
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-1. Download and extract the release.</br>
-   ![Screenshot (1928)](https://github.com/lvoxx/LSCherry/assets/95278222/70f1f18d-e45b-4170-bb76-4a3624c13d27)
+1. Download and install at Potato-LSCherry 
+[![🌸 Download Latest Release](https://img.shields.io/badge/🌸_Download-Latest_Release-ff69b4?style=for-the-badge&logo=github)](https://github.com/lvoxx/Potato-LSCherry/releases/latest)
 
-2. Add Asset Library In File Path
+<img width="290" height="138" alt="Screenshot 2025-08-13 155612" src="https://github.com/user-attachments/assets/c279b2d9-c018-4496-aa32-4cad75b46ba4" />
+</br>
+<img width="490" height="174" alt="Screenshot 2025-08-13 155815" src="https://github.com/user-attachments/assets/9fad231c-d6fa-4088-9295-7c9ac28eb5d1" />
 
-- Note: You can use LSCherry as a local asset (Append) to share your work with others or lock down the LSCherry version you prefer.</br>
-  ![Screenshot 2024-04-14 110334](https://github.com/lvoxx/LSCherry/assets/95278222/d4f1b22d-8d16-4bb8-aa53-a80401b54be5)
+---
+2. Choose the version you want to use, default version is latest. **BIG TIP**: Potato-LSCherry tracks LSCherry-(version) collection on root, make sure it is in the Scene Collection.
 
-3. Open Asset Browser and drag object "Cherry".</br>
-   <img src="https://github.com/lvoxx/LSCherry/assets/95278222/faf729cc-0408-4f43-883f-c76cceaea012"/>
+<img width="607" height="416" alt="Screenshot 2025-08-13 160234" src="https://github.com/user-attachments/assets/79746d01-d7e6-4e8d-9cda-14c8c4b4ce79" />
 
-4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
+---
+3. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
    <img src="https://github.com/lvoxx/LSCherry/assets/95278222/63153287-1603-483c-ab79-98228fdb34b6"/>
-
-5. Yes, its done ✨🎉🎉. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name". Example: HI3, GI, HSR,... find more prefix at [Build-in Toon Support For Games](#build-in)
+---
+4. Yes, its done ✨🎉🎉. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name". Example: HI3, GI, HSR,... find more prefix at [Build-in Toon Support For Games](#build-in)
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
