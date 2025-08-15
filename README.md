@@ -38,9 +38,9 @@ Follow project tags on <a href="https://trello.com/invite/b/67b5c93f75f86096406f
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-1. Download and install at [Potato-LSCherry](https://github.com/lvoxx/Potato-LSCherry)
+1. Download and install at [Potato-LSCherry](https://github.com/lvoxx/LSPotato)
 
-[![🌸 Download Addon](https://img.shields.io/badge/Download_Addon-Here-186EDB?style=for-the-badge&logo=github)](https://github.com/lvoxx/Potato-LSCherry/releases/latest)
+[![🌸 Download Addon](https://img.shields.io/badge/Download_Addon-Here-186EDB?style=for-the-badge&logo=github)](https://github.com/lvoxx/LSPotato/releases/latest)
 
 <img width="290" height="138" alt="Screenshot 2025-08-13 155612" src="https://github.com/user-attachments/assets/c279b2d9-c018-4496-aa32-4cad75b46ba4" />
 </br>
