@@ -1,6 +1,7 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width="100%" src="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png" alt="Project Banner"></a>
+    <img width="60%" src="https://github.com/lvoxx/LSCherry/blob/main/doc/assets/banner.png?raw=1" alt="Project Banner">
+  </a>
 </p>
 
 <h3 align="center">Toon Shader Library for Blender. Supporting various material processing types for toon rendering.</h3>
@@ -42,20 +43,55 @@ Follow project tags on <a href="https://trello.com/invite/b/67b5c93f75f86096406f
 
 [![🌸 Download Addon](https://img.shields.io/badge/Download_Addon-Here-186EDB?style=for-the-badge&logo=github)](https://github.com/lvoxx/LSPotato/releases/latest)
 
-<img width="290" height="138" alt="Screenshot 2025-08-13 155612" src="https://github.com/user-attachments/assets/c279b2d9-c018-4496-aa32-4cad75b46ba4" />
-</br>
-<img width="490" height="174" alt="Screenshot 2025-08-13 155815" src="https://github.com/user-attachments/assets/9fad231c-d6fa-4088-9295-7c9ac28eb5d1" />
+<img width="499" height="254" alt="ảnh" src="https://github.com/user-attachments/assets/957c126c-a27c-4159-845c-7ca2e10bbd37" />
 
 ---
 2. Choose the version you want to use, default version is latest. **BIG TIP**: Potato-LSCherry tracks LSCherry-(version) collection on root, make sure it is in the Scene Collection.
 
-<img width="607" height="416" alt="Screenshot 2025-08-13 160234" src="https://github.com/user-attachments/assets/79746d01-d7e6-4e8d-9cda-14c8c4b4ce79" />
+<img width="607" height="538" alt="Screenshot 2025-08-31 112707" src="https://github.com/user-attachments/assets/afedb9bc-e2a0-4b8e-bac8-ff75bcae499d" />
 
 ---
-3. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
-   <img src="https://github.com/lvoxx/LSCherry/assets/95278222/63153287-1603-483c-ab79-98228fdb34b6"/>
+
+3. **Setup**
+- Add a Sun Light as the main light source and name it **MLight**. Also, rename the Collection to be tracked as Toon materials collection to **_LS**.
+- You can change the names, but for best practice I recommend keeping the default ones.
+- Turn on AutoSync mode. For performance reasons, don’t keep it ON in the final Blender file.
+
+<img width="597" height="450" alt="Screenshot 2025-08-31 113739" src="https://github.com/user-attachments/assets/de8a5564-fce5-4e1f-bb07-ee35c5687c5e" />
+
+**Optional**: Make sure Geomery node Core.LSCherryProvider is added to object's modifier and MLight is added to Main Light Dot socket.
+
+<img width="auto" height="268" alt="ảnh" src="https://github.com/user-attachments/assets/b10d5587-65b8-4d66-8900-e23faaae26fe" />
+
+**Optional**: For the best Toon color filter, i recommend you to use Color Management below. Exposure can be around 0.9 to 1.0. If you want to Toon in ArX, use the To ArX output on each main Toon shader.
+
+<img width="auto" height="264" alt="ảnh" src="https://github.com/user-attachments/assets/f94a1afc-962e-402c-b097-c47ab2e1f895" />
+
 ---
-4. Yes, its done ✨🎉🎉. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name". Example: HI3, GI, HSR,... find more prefix at [Build-in Toon Support For Games](#build-in)
+4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
+→ From 1.1.0, Make Toon has interaction with the enviroment around it. For simple setup, navigate to [Quick Start](#quick-start)
+
+<img width="auto" height="600" alt="ảnh" src="https://github.com/user-attachments/assets/1cda6a4f-05d0-46b7-894a-c3e258342167" />
+   
+---
+5. Yes, its done ✨🎉🎉. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name". Example: HI3, GI, HSR,... find more prefix at [Build-in Toon Support For Games](#build-in)
+
+## 🚀 Simple Start <a name = "quick-start"></a>
+
+Since LSCherry was cross-toon, i has developed many choices for different styles.
+- Simple Make Toon: Super quick toon shader, but it has no interaction to the enviroment except the Value.
+
+<img width="auto" height="600" alt="ảnh" src="https://github.com/user-attachments/assets/0659c2c5-5386-4261-8fd1-c6073cd49e81" />
+
+- Stacked Toon: For advanced controll of multi ramp colors, like bush, cloud, tree,...It works alike Simple Make Toon.
+
+<img width="auto" height="450" alt="ảnh" src="https://github.com/user-attachments/assets/d51c2572-531d-49ac-9590-834bac0137f8" />
+
+- ToonRay: For **Cycles Engine** render. Works like Make Toon but it's really hard to custom ramp and no Blended render mode.
+
+<img width="auto" height="450" alt="ảnh" src="https://github.com/user-attachments/assets/8ce7b53a-3f9c-4d67-b0f8-ce71850fd0e5" />
+
+➡ For further documents, [Go To Wiki](https://github.com/lvoxx/LSCherry/wiki)
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
@@ -76,12 +112,12 @@ Follow project tags on <a href="https://trello.com/invite/b/67b5c93f75f86096406f
 
 | Package               | Prefix | Build-in Support | Starter Pack |
 | --------------------- | :----: | :--------------: | :----------: |
-| Honkai Impact 3       |  HI3   |        ✔️        |      ✔️      |
+| Honkai Impact 3       |  HI3   |        ✔️        |      ❌      |
 | Genshin Impact        |   GI   |        ✔️        |      ✔️      |
-| Zenless Zone Zero     |  ZZZ   |        ❌        |      ❌      |
-| Honkai Starrail       |  HSR   |        ✔️        |      ✔️      |
+| Zenless Zone Zero     |  ZZZ   |        🚧        |      ❌      |
+| Honkai Starrail       |  HSR   |        ✔️        |      ❌      |
 | Punishing: Gray Raven |  PGR   |        ❌        |      ❌      |
-| Girls Frontline 2     |  GF2   |        ❌        |      ❌      |
+| Girls Frontline 2     |  GF2   |        ✔️        |      ❌      |
 | Persona Series        |  PSN   |        ❌        |      ❌      |
 | Wuthering Waves       |   WW   |        ❌        |      ❌      |
 | Aether Gazer          |   AG   |        ❌        |      ❌      |
