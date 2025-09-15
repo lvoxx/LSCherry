@@ -57,15 +57,17 @@ Toon Shader for Blender is inspired by <a href="https://www.youtube.com/@aVersio
 3. **Setup**
 - Add a Sun Light as the main light source and name it **MLight**. Also, rename the Collection to be tracked as Toon materials collection to **_LS**.
 
-> [!TIP]
-> You can change any collection and light object name as you want.
-> For best practice I recommend keeping the default MLight and root character collection.
+> [!TIP] </br>
+> You can change any collection and light object name as you want. </br>
+> For best practice I recommend keeping the default MLight and root character collection. </br>
 > Example:
+> ```
 > ├── Character Package -> Set as being tracked collection
 >     ├── Sub Col 1
 >     ├── Sub Col 2
 > ├── MLight -> Set as Sun object
 > ├── LSCherry-1.0.0
+> ```
 
 - Turn on AutoSync mode. For performance reasons, don’t keep it ON in the final Blender file.
 
