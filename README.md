@@ -56,6 +56,10 @@ Toon Shader for Blender is inspired by <a href="https://www.youtube.com/@aVersio
 
 3. **Setup**
 - Add a Sun Light as the main light source and name it **MLight**. Also, rename the Collection to be tracked as Toon materials collection to **_LS**.
+
+> [!TIP]
+> You can change any collection and light object name as you want.
+
 - You can change the names, but for best practice I recommend keeping the default ones.
 - Turn on AutoSync mode. For performance reasons, don’t keep it ON in the final Blender file.
 
