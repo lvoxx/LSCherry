@@ -59,8 +59,14 @@ Toon Shader for Blender is inspired by <a href="https://www.youtube.com/@aVersio
 
 > [!TIP]
 > You can change any collection and light object name as you want.
+> For best practice I recommend keeping the default MLight and root character collection.
+> Example:
+> ├── Character Package -> Set as being tracked collection
+>     ├── Sub Col 1
+>     ├── Sub Col 2
+> ├── MLight -> Set as Sun object
+> ├── LSCherry-1.0.0
 
-- You can change the names, but for best practice I recommend keeping the default ones.
 - Turn on AutoSync mode. For performance reasons, don’t keep it ON in the final Blender file.
 
 <img width="597" height="450" alt="Screenshot 2025-08-31 113739" src="https://github.com/user-attachments/assets/de8a5564-fce5-4e1f-bb07-ee35c5687c5e" />
