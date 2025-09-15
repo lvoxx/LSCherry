@@ -60,7 +60,7 @@ Toon Shader for Blender is inspired by <a href="https://www.youtube.com/@aVersio
 - Turn on AutoSync mode. For performance reasons, don’t keep it ON in the final Blender file.
 
 > [!TIP]
-> You can change any collection and light object name as you want. For best practice I recommend keeping the default MLight and set the collection to be tracked root character collection.
+> You can change any collection and light object name as you want. For best practice I recommend keeping the default MLight and set the collection to be tracked root character collection. </br>
 > **Example**
 > ```
 > ├── Character Package -> Set as being tracked collection
