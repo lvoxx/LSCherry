@@ -112,7 +112,8 @@ Since LSCherry was cross-toon, i has developed many choices for different styles
 > 🛠️ Blender version should be **3.x.x** or **4.x.x**
 > The LSCherry nodes link to the scr, make sure to relink the source or local it all
 
-> [!WARNING] Blender version **2.x.x** or **older** will cause unexpected issues or crashing.
+> [!WARNING]
+> Blender version **2.x.x** or **older** will cause unexpected issues or crashing.
 
 | Require name          | Description                  | Where To Download                                                                                  |    Is    |
 | --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :------: |
