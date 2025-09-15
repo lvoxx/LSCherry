@@ -35,7 +35,9 @@
 ## 🧐 About <a name = "about"></a>
 
 Toon Shader for Blender is inspired by <a href="https://www.youtube.com/@aVersionOfReality">aVersionOfReality</a> and is a library designed to be compatible with many contemporary anime-style games and pure toon aesthetics. The basic configurations have been pre-set up and integrated with toolsets to facilitate connections with other similar or compatible toon libraries.<br/>
-Follow project tags on <a href="https://trello.com/invite/b/67b5c93f75f86096406fbd2f/ATTI4caf9d6696f0aa5ea62906353b453b94EA2C7E86/lscherry">Trello</a>
+
+> [!NOTE]  
+> Follow project updates on **[Discord Forum](https://discord.com/channels/894925535870865498/1229033388946755734)**
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
