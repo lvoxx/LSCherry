@@ -59,7 +59,7 @@ Toon Shader for Blender is inspired by <a href="https://www.youtube.com/@aVersio
 
 - Turn on AutoSync mode. For performance reasons, don’t keep it ON in the final Blender file.
 
-> [!TIP] Best Practices
+> [!TIP]
 > You can change any collection and light object name as you want. For best practice I recommend keeping the default MLight and set the collection to be tracked root character collection. </br>
 > **Example**
 > ```
@@ -108,7 +108,7 @@ Since LSCherry was cross-toon, i has developed many choices for different styles
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
-> [!NOTE] Before Using
+> [!NOTE]
 > 🛠️ Blender version should be **3.x.x** or **4.x.x**. </br>
 > The LSCherry nodes link to the scr, make sure to relink the source or local it all
 
