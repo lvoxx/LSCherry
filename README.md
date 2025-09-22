@@ -35,7 +35,9 @@
 ## 🧐 About <a name = "about"></a>
 
 Toon Shader for Blender is inspired by <a href="https://www.youtube.com/@aVersionOfReality">aVersionOfReality</a> and is a library designed to be compatible with many contemporary anime-style games and pure toon aesthetics. The basic configurations have been pre-set up and integrated with toolsets to facilitate connections with other similar or compatible toon libraries.<br/>
-Follow project tags on <a href="https://trello.com/invite/b/67b5c93f75f86096406fbd2f/ATTI4caf9d6696f0aa5ea62906353b453b94EA2C7E86/lscherry">Trello</a>
+
+> [!NOTE]  
+> Follow project updates on **[Discord Forum](https://discord.com/channels/894925535870865498/1229033388946755734)**
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -54,8 +56,19 @@ Follow project tags on <a href="https://trello.com/invite/b/67b5c93f75f86096406f
 
 3. **Setup**
 - Add a Sun Light as the main light source and name it **MLight**. Also, rename the Collection to be tracked as Toon materials collection to **_LS**.
-- You can change the names, but for best practice I recommend keeping the default ones.
+
 - Turn on AutoSync mode. For performance reasons, don’t keep it ON in the final Blender file.
+
+> [!TIP]
+> You can change any collection and light object name as you want. For best practice I recommend keeping the default MLight and set the collection to be tracked root character collection. </br>
+> **Example**
+> ```
+> ├── Character Package -> Set as being tracked collection
+>     ├── Sub Col 1
+>     ├── Sub Col 2
+> ├── MLight -> Set as Sun object
+> ├── LSCherry-1.0.0
+> ```
 
 <img width="597" height="450" alt="Screenshot 2025-08-31 113739" src="https://github.com/user-attachments/assets/de8a5564-fce5-4e1f-bb07-ee35c5687c5e" />
 
@@ -95,11 +108,12 @@ Since LSCherry was cross-toon, i has developed many choices for different styles
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
-### 🛠️ Blender version should be **3.x.x** or **4.x.x**
+> [!NOTE]
+> 🛠️ Blender version should be **4.x.x** or **5.x.x**. </br>
+> The LSCherry nodes link to the scr, make sure to relink the source or local it all
 
-### 🛠️ The LSCherry nodes link to the scr, make sure to relink the source or local it all
-
-⚠️ Blender version **2.x.x** or **older** will cause unexpected issues ⚠️
+> [!WARNING]
+> Blender version **3.x.x** or **older** will cause unexpected issues or crashing.
 
 | Require name          | Description                  | Where To Download                                                                                  |    Is    |
 | --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :------: |
