@@ -41,7 +41,7 @@ Toon Shader for Blender and GooEngine is inspired by <a href="https://www.youtub
 
 ## ❗ Prerequisites <a name = "prerequisites"></a>
 
-> [!NOTE]
+> [!IMPORTANT]
 > 🛠️ Blender version should be **4.x.x** or **5.x.x**. </br>
 > The LSCherry nodes link to the scr, make sure to relink the source or local it all
 
