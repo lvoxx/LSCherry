@@ -39,6 +39,22 @@ Toon Shader for Blender and GooEngine is inspired by <a href="https://www.youtub
 > [!NOTE]  
 > Follow project updates on **[Discord Forum](https://discord.com/channels/894925535870865498/1229033388946755734)**
 
+## ❗ Prerequisites <a name = "prerequisites"></a>
+
+> [!IMPORTANT]
+> 🛠️ Blender version should be **4.x.x** or **5.x.x**. </br>
+> The LSCherry nodes link to the scr, make sure to relink the source or local it all
+
+> [!WARNING]
+> Blender version **3.x.x** or **older** will cause unexpected issues or crashing.
+
+| Require name          | Description                  | Where To Download                                                                                  |    Is    |
+| --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :------: |
+| Blender               | For LSCherry                 | <a href="https://www.blender.org/download/">Download</a>                                           | Required |
+| Auto Reload Libraries | Auto reload linked libraries | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> | Required |
+| VF PlanarUV           | For Frequent Hair Highlight  | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a>            | Optional |
+| Mesh Fairing Master   | Quick Clean Shading Face     | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a>   | Optional |
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 1. Download and install at [LSPotato](https://github.com/lvoxx/LSPotato)
@@ -105,22 +121,6 @@ Since LSCherry was cross-toon, i has developed many choices for different styles
 <img width="auto" height="450" alt="ảnh" src="https://github.com/user-attachments/assets/8ce7b53a-3f9c-4d67-b0f8-ce71850fd0e5" />
 
 ➡ For further documents, [Go To Wiki](https://github.com/lvoxx/LSCherry/wiki)
-
-## ❗ Prerequisites <a name = "prerequisites"></a>
-
-> [!NOTE]
-> 🛠️ Blender version should be **4.x.x** or **5.x.x**. </br>
-> The LSCherry nodes link to the scr, make sure to relink the source or local it all
-
-> [!WARNING]
-> Blender version **3.x.x** or **older** will cause unexpected issues or crashing.
-
-| Require name          | Description                  | Where To Download                                                                                  |    Is    |
-| --------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------- | :------: |
-| Blender               | For LSCherry                 | <a href="https://www.blender.org/download/">Download</a>                                           | Required |
-| Auto Reload Libraries | Auto reload linked libraries | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/auto_reload_libraries.zip">Download</a> | Required |
-| VF PlanarUV           | For Frequent Hair Highlight  | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/VF_planarUV.py">Download</a>            | Optional |
-| Mesh Fairing Master   | Quick Clean Shading Face     | <a href="https://github.com/lvoxx/LSCherry/blob/main/addon/mesh-fairing-master.zip">Download</a>   | Optional |
 
 ## 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
