@@ -3,3 +3,6 @@
 *.local.blend
 *.local.blend1
 *.local.blend2
+*.zip
+*.rar
+/dist
