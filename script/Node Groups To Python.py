@@ -633,7 +633,33 @@ class NodeGroupPluginGenerator:
                     import traceback
                     traceback.print_exc()
         
+        # Generate __init__.py for the shader module
+        self.generate_init_file(output_path, processed_groups)
+        
         return processed_groups
+    
+    def generate_init_file(self, output_path, processed_groups):
+        """Generate __init__.py that imports all node classes"""
+        init_code = ['"""Auto-generated node modules"""', '', '# Import all generated node classes']
+        
+        # Add imports
+        for group in processed_groups:
+            module_name = group['file_name'].replace('.py', '')
+            class_name = group['class_name']
+            init_code.append(f"from .{module_name} import {class_name}")
+        
+        # Add __all__
+        init_code.extend(['', '__all__ = ['])
+        for group in processed_groups:
+            init_code.append(f'    "{group["class_name"]}",')
+        init_code.append(']')
+        
+        # Write __init__.py
+        init_path = os.path.join(output_path, '__init__.py')
+        with open(init_path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(init_code))
+        
+        print(f"✓ Generated __init__.py with {len(processed_groups)} imports")
 
 
 # ============================================
