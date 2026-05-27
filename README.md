@@ -168,7 +168,3 @@ Respect for those who have created wonderful addons and library.
 |                                                                                                                                                                   Inspiration by<br>aVersionOfReality                                                                                                                                                                    |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [<img src="https://yt3.googleusercontent.com/3eV9mOZaAJ9Uh16gMaiq8pXwPe9lVlk-K3UR4pkzZ3ggKT7zA-ZZ8GlUqjsvfy6vmIRbURlq=s160-c-k-c0x00ffffff-no-rj" width=115><br>](https://www.youtube.com/@aVersionOfReality)<br> [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aVersionOfReality) |
-
-### References
-
-Not update yet.
