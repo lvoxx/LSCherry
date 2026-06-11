@@ -61,32 +61,28 @@ Toon Shader for Blender and GooEngine is inspired by <a href="https://www.youtub
 
 [![🌸 Download Addon](https://img.shields.io/badge/Download_Addon-Here-186EDB?style=for-the-badge&logo=github)](https://github.com/lvoxx/LSPotato/releases/latest)
 
-<img width="499" height="254" alt="ảnh" src="https://github.com/user-attachments/assets/957c126c-a27c-4159-845c-7ca2e10bbd37" />
-
----
-2. Choose the version you want to use, default version is latest. **BIG TIP**: Potato-LSCherry tracks LSCherry-(version) collection on root, make sure it is in the Scene Collection.
-
-<img width="607" height="538" alt="Screenshot 2025-08-31 112707" src="https://github.com/user-attachments/assets/afedb9bc-e2a0-4b8e-bac8-ff75bcae499d" />
+<img width="499" height="254" alt="ảnh" src="docs\assets\addon-preview.png" />
 
 ---
 
 3. **Setup**
-- Add a Sun Light as the main light source and name it **MLight**. Also, rename the Collection to be tracked as Toon materials collection to **_LS**.
+
+- Add a Sun Light as the main light source and name it **MLight**.
 
 - Turn on AutoSync mode. For performance reasons, don’t keep it ON in the final Blender file.
 
 > [!TIP]
 > You can change any collection and light object name as you want. For best practice I recommend keeping the default MLight and set the collection to be tracked root character collection. </br>
 > **Example**
+>
 > ```
 > ├── Character Package -> Set as being tracked collection
 >     ├── Sub Col 1
->     ├── Sub Col 2
-> ├── MLight -> Set as Sun object
-> ├── LSCherry-1.0.0
+>     └── Sub Col 2
+> └── MLight -> Set as Sun object
 > ```
 
-<img width="597" height="450" alt="Screenshot 2025-08-31 113739" src="https://github.com/user-attachments/assets/de8a5564-fce5-4e1f-bb07-ee35c5687c5e" />
+<img width="auto" height="350" alt="Screenshot 2025-08-31 113739" src="docs\assets\addon-setup.png" />
 
 **Optional**: Make sure Geomery node Core.LSCherryProvider is added to object's modifier and MLight is added to Main Light Dot socket.
 
@@ -97,17 +93,19 @@ Toon Shader for Blender and GooEngine is inspired by <a href="https://www.youtub
 <img width="auto" height="264" alt="ảnh" src="https://github.com/user-attachments/assets/f94a1afc-962e-402c-b097-c47ab2e1f895" />
 
 ---
-4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
-→ From 1.1.0, Make Toon has interaction with the enviroment around it. For simple setup, navigate to [Quick Start](#quick-start)
 
-<img width="auto" height="600" alt="ảnh" src="https://github.com/user-attachments/assets/1cda6a4f-05d0-46b7-894a-c3e258342167" />
+4. Open Shader Editor and find "Make Toon" node and connect it to Material Output.</br>
+   → For others setup and deep knowledge, navigate to [Wiki](https://github.com/lvoxx/LSCherry/wiki)
+
+<img width="auto" height="600" alt="ảnh" src="docs\assets\maketoon-preview.png" />
    
 ---
 5. Yes, its done ✨🎉🎉. If you want to use additional features or pre-built packages, please search for nodes within the materials present in the LSCherry object or those prefixed with "Game Name". Example: HI3, GI, HSR,... find more prefix at [Build-in Toon Support For Games](#build-in)
 
-## 🚀 Simple Start <a name = "quick-start"></a>
+## 🚀 Quick Start <a name = "quick-start"></a>
 
 Since LSCherry was cross-toon, i has developed many choices for different styles.
+
 - Simple Make Toon: Super quick toon shader, but it has no interaction to the enviroment except the Value.
 
 <img width="auto" height="600" alt="ảnh" src="https://github.com/user-attachments/assets/0659c2c5-5386-4261-8fd1-c6073cd49e81" />
@@ -124,18 +122,19 @@ Since LSCherry was cross-toon, i has developed many choices for different styles
 
 ## 📦 Build-in Toon Support For Games <a name = "build-in"></a>
 
-| Package               | Prefix | Build-in Support | Starter Pack |
-| --------------------- | :----: | :--------------: | :----------: |
-| Honkai Impact 3       |  HI3   |        ✔️        |      ❌      |
-| Genshin Impact        |   GI   |        ✔️        |      ✔️      |
-| Zenless Zone Zero     |  ZZZ   |        🚧        |      ❌      |
-| Honkai Starrail       |  HSR   |        ✔️        |      ❌      |
-| Punishing: Gray Raven |  PGR   |        ❌        |      ❌      |
-| Girls Frontline 2     |  GF2   |        ✔️        |      ❌      |
-| Persona Series        |  PSN   |        ❌        |      ❌      |
-| Wuthering Waves       |   WW   |        ❌        |      ❌      |
-| Aether Gazer          |   AG   |        ❌        |      ❌      |
-| Project Snow          |  PJS   |        ❌        |      ❌      |
+| Package               |  Prefix  | Starter Pack |
+| --------------------- | :------: | :----------: |
+| Honkai Impact 3       |   HI3    |      ❌      |
+| Genshin Impact        |    GI    |      ❌      |
+| Zenless Zone Zero     |   ZZZ    |      ❌      |
+| Honkai Starrail       |   HSR    |      ❌      |
+| Strinova              | Strinova |      ✔️      |
+| Punishing: Gray Raven |   PGR    |      ❌      |
+| Girls Frontline 2     |   GF2    |      ❌      |
+| Persona Series        |   PSN    |      ❌      |
+| Wuthering Waves       |    WW    |      ❌      |
+| Aether Gazer          |    AG    |      ❌      |
+| Project Snow          |   PJS    |      ❌      |
 
 ## 🔧 Tests File <a name = "tests"></a>
 
