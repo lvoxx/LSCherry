@@ -77,8 +77,8 @@ Toon Shader for Blender and GooEngine is inspired by <a href="https://www.youtub
 >
 > ```
 > ├── Character Package -> Set as being tracked collection
->     ├── Sub Col 1
->     └── Sub Col 2
+> |   ├── Sub Col 1
+> |   └── Sub Col 2
 > └── MLight -> Set as Sun object
 > ```
 
