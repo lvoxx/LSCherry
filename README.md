@@ -147,7 +147,7 @@ Check out test file using build-in packages.
 
 #### Chiyo - Strinova
 
-<img src="tests/result/4.png" width = "350"/>
+<img src="test/results/4.png" width = "350"/>
 
 ## 📖 User Manual <a name = "user-manual"></a>
 
