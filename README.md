@@ -141,13 +141,13 @@ Since LSCherry was cross-toon, i has developed many choices for different styles
 Check out test file using build-in packages.
 [Go To Tests](https://github.com/lvoxx/LSCherry/tree/main/test)
 
-### Honkai Impact 3
+#### Elysia - Honkai Impact 3 
 
-<strong>Elysia</strong></br>
 <img src="https://github.com/lvoxx/LSCherry/assets/95278222/2801a4a4-3923-4fb1-bdae-f279fa876f15" width = "350"/>
 
-<strong>Vill-V</strong></br>
-<img src="https://github.com/lvoxx/LSCherry/assets/95278222/90f2ef91-2cc2-48c9-a346-5418d9ec9585" width = "350"/>
+#### Chiyo - Strinova
+
+<img src="tests/result/4.png" width = "350"/>
 
 ## 📖 User Manual <a name = "user-manual"></a>
 
