@@ -1,0 +1,148 @@
+Parent = MaterialInstanceConstant'/PM/Content/PaperMan/MaterialMaster/Character/CommonNPBRMI/MI_Toon_PBR_MatCap4.MI_Toon_PBR_MatCap4'
+ScalarParameterValues[4] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=MatCapPow }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=IBLMaxMip }
+        ParameterValue = 12
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=IBL_Fresnel }
+        ParameterValue = 2
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[5] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseMap }
+        ParameterValue = Texture2D'/PM/Content/PaperMan/SkinAssets/Characters/Cielle/S210/Mesh3D/T_Cielle_Body_D_S210.T_Cielle_Body_D_S210'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=NormalMap }
+        ParameterValue = Texture2D'/PM/Content/PaperMan/SkinAssets/Characters/Cielle/S207/Mesh3D/T_Cielle_Body_N_S207.T_Cielle_Body_N_S207'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Mask1 }
+        ParameterValue = Texture2D'/PM/Content/PaperMan/SkinAssets/Characters/Cielle/S210/Mesh3D/T_Cielle_Body_Mask1_S210.T_Cielle_Body_Mask1_S210'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Mask2 }
+        ParameterValue = Texture2D'/PM/Content/PaperMan/SkinAssets/Characters/Cielle/S210/Mesh3D/T_Cielle_Body_Mask2_S210.T_Cielle_Body_Mask2_S210'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=IBL }
+        ParameterValue = Texture2D'/PM/Content/PaperMan/MaterialLibrary/Texture/CubeMap_2D/T_FlattenCubeMap_02_256.T_FlattenCubeMap_02_256'
+        ParameterName = None
+    }
+}
+VectorParameterValues[2] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=EmissiveColor }
+        ParameterValue = { R=1, G=0.475152, B=0.242371, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=Mask2(0-1) }
+        ParameterValue = { R=0.95, G=0.614286, B=0.5, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = true
+    TwoSided = true
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[5] =
+    {
+        StaticSwitchParameters[0] =
+        {
+            Value = true
+            ParameterInfo = { Name=NeedMask1 }
+            bOverride = true
+        }
+        StaticSwitchParameters[1] =
+        {
+            Value = true
+            ParameterInfo = { Name=NeedMask2 }
+            bOverride = true
+        }
+        StaticSwitchParameters[2] =
+        {
+            Value = true
+            ParameterInfo = { Name=PBR }
+            bOverride = true
+        }
+        StaticSwitchParameters[3] =
+        {
+            Value = true
+            ParameterInfo = { Name=NeedMatCap }
+            bOverride = true
+        }
+        StaticSwitchParameters[4] =
+        {
+            Value = true
+            ParameterInfo = { Name=NeedMatCap4text }
+            bOverride = true
+        }
+    }
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[2] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_Cielle_Body_D_S210
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = T_DefaultWhite_Grayscale
+    }
+}

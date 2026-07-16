@@ -1,0 +1,9 @@
+Diffuse=T_Cielle_Body_D_S210
+Normal=T_DefaultNormal
+Other[0]=T_DefaultBlack_Gamma
+Other[1]=T_DefaultBlack_Linear
+Other[2]=T_DefaultWhite_Gamma
+Other[3]=T_DefaultWhite_Grayscale
+Other[4]=T_Toon_DefaultMask1_Linear
+Other[5]=T_Toon_DefaultMask2_Linear
+Other[6]=T_FlattenCubeMap_02_256

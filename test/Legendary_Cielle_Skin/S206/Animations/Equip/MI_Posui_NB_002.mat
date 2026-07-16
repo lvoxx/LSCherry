@@ -1,0 +1,8 @@
+Diffuse=T_Notex_D
+Normal=T_Normal_LKL_001
+Cube=matcap02
+Other[0]=DefaultTexture
+Other[1]=AB_Thorne_4_NM
+Other[2]=T_Notex_RMO
+Other[3]=T_DefaultNormal
+Other[4]=T_HDR_Panorama_Ball
